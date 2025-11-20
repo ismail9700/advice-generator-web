@@ -1,7 +1,3 @@
-# Advice Generator
-
-Advice Generator is a web application that fetches and displays random advice quotes from an external API. Built with HTML, CSS, and JavaScript, it offers a clean, responsive interface for users to receive quick inspiration or guidance with a single click.
-
 ## Demo
 [**Try Advice Generator Live**](https://ismail-advice.netlify.app/)
 
