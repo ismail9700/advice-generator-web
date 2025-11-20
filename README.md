@@ -1,5 +1,5 @@
 ## Demo
-[**Try Advice Generator Live**](https://ismail-advice.netlify.app/)
+[**Try It Live**](https://ismail-advice.netlify.app/)
 
 ## Screenshot
 ![App Screenshot](screenshots/Screenshot%202022-10-06%20at%2013-05-43%20Advice%20generator.png)
